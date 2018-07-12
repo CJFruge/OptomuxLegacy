@@ -8,7 +8,7 @@ c. Conjoined physical Optomux device networks to create a larger virtual one.
 
 Read the wikipedia article: https://en.wikipedia.org/wiki/Optomux
 
-Read the protocol manual: https://documents.opto22.com/1572_Optomux_Protocol_Guide.pdf
+Read the protocol manual: http://documents.opto22.com/1572_Optomux_Protocol_Guide.pdf
 
 Languages: C++, C#
 Platforms: Windows, Linux
